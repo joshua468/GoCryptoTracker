@@ -1,0 +1,19 @@
+{
+    "tokens": [
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "threshold": 30000
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "threshold": 1200
+        },
+        {
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "threshold": 110
+        }
+    ]
+}
